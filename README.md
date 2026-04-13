@@ -52,7 +52,6 @@ Passionate about building scalable web applications and solving real-world probl
 * Full Stack Development – NoviTech
 
 ## Features
-
 * Responsive Design
 * Clean UI
 * Project Showcase
